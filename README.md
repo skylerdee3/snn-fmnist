@@ -1,3 +1,3 @@
 # snn-fmnist
 
-Implement an Spiking Neural Network to classify images from Fashion-MNIST.
+Implement a Spiking Neural Network (Leaky Integrate-and-Fire) to classify images from Fashion-MNIST.
